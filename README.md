@@ -22,7 +22,7 @@
 | Project | Live Demo | Source Code |
 | :--- | :---: | :---: |
 | **CineTube** (Streaming) | [🔗 Visit](https://tube-client.vercel.app) | [💻 Code](https://github.com/HST159075) |
-| **MediStore** (Pharmacy) | [🔗 Visit](#) | [💻 Code](https://github.com/HST159075) |
+| **MediStore** (Pharmacy) | [🔗 Visit]([#](https://medistore-dusky.vercel.app)) | [💻 Code](https://github.com/HST159075) |
 | **Vehicle Rental** | [🔗 Visit](#) | [💻 Code](https://github.com/HST159075) |
 
 ---
