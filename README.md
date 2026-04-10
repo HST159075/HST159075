@@ -1,41 +1,57 @@
 <div align="center">
 
-#  Hallo everyone, I'm Tasin.
-### Full-Stack Web Developer | Software Engineer
+# 💫 Welcome to My Digital Universe!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Database+Management+Expert;Problem+Solver+at+Heart)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0JmImVwaT12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
----
+### 👨‍💻 I'm Tasin | Full-Stack Explorer
+**Building the future with code and creativity**
 
-### 🚀 Technical Expertise
-
-**Frontend**
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-**Backend & DB**
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-39827E?style=for-the-badge&logo=prisma&logoColor=white" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;PostgreSQL+Expert;Next.js+Specialist;Creative+Problem+Solver)
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Tech Universe (3D Style Icons)
 
-| Project | Live Demo | Source Code |
-| :--- | :---: | :---: |
-| **CineTube** (Streaming) | [🔗 Visit](https://tube-client.vercel.app) | [💻 Code](https://github.com/HST159075) |
-| **MediStore** (Pharmacy) | [🔗 Visit](https://medistore-dusky.vercel.app) | [💻 Code](https://github.com/HST159075) |
-| **Vehicle Rental** | [🔗 Visit](#) | [💻 Code](https://github.com/HST159075) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,postgres,prisma,git,vercel,firebase,figma&perline=6" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Tasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HST159075&show_icons=true&theme=tokyonight)
+### 📂 Top Creations
+
+<table align="center">
+  <tr>
+    <td align="center"><b>CineTube</b></td>
+    <td align="center"><b>MediStore</b></td>
+    <td align="center"><b>Vehicle System</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=tube-client&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=MediStore&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=B6A2-Vehicle-Rental&theme=tokyonight" /></td>
+  </tr>
+</table>
+
+---
+
+### 📊 My Coding Journey
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HST159075&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HST159075&layout=compact&theme=tokyonight)
+
+| <img src="https://github-readme-stats.vercel.app/api?username=HST159075&show_icons=true&theme=tokyonight&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HST159075&layout=compact&theme=tokyonight&hide_border=true" width="300" /> |
+| :---: | :---: |
 
 ---
 
-### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tasin-alam-28158735a) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alamtasin18@gmail.com)
+### 🤝 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/tasin-alam-28158735a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:alamtasin18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
