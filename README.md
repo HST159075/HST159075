@@ -25,39 +25,46 @@
 
 <table>
   <tr>
-    <td width="33.33%" align="center"><b>CineTube</b></td>
-    <td width="33.33%" align="center"><b>MediStore</b></td>
-    <td width="33.33%" align="center"><b>BidBD (Auction Engine)</b></td>
+    <td width="33.33%" align="center"><b>🎬 CineTube</b></td>
+    <td width="33.33%" align="center"><b>💊 MediStore</b></td>
+    <td width="33.33%" align="center"><b>🔨 BidBD (Auction Engine)</b></td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=tube-client&theme=tokyonight&hide_border=true" />
+      <a href="https://tube-client.vercel.app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=tube-client&theme=tokyonight&hide_border=true" />
+      </a>
       <p align="left">
+        • <b>Status:</b> <a href="https://tube-client.vercel.app">Live Demo 🚀</a><br>
         • Scalable Movie Streaming<br>
-        • Advanced Video Player<br>
+        • Advanced Video Player logic<br>
         • Watchlist Management
       </p>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=MediStore&theme=tokyonight&hide_border=true" />
+      <a href="https://medistore-dusky.vercel.app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=MediStore&theme=tokyonight&hide_border=true" />
+      </a>
       <p align="left">
-        • Pharmacy Inventory System<br>
+        • <b>Status:</b> <a href="https://medistore-dusky.vercel.app">Live Demo 🚀</a><br>
+        • Online Pharmacy Platform<br>
         • Role-Based Access Control<br>
         • Order Workflow Logic
       </p>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=Bid-Press-Client&theme=tokyonight&hide_border=true" />
+      <a href="https://bid-press.vercel.app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=Bid-Press-Client&theme=tokyonight&hide_border=true" />
+      </a>
       <p align="left">
-        • Real-Time Auction Logic<br>
+        • <b>Status:</b> <a href="https://bid-press.vercel.app">Live Demo 🚀</a><br>
+        • Real-Time Auction Engine<br>
         • Socket.io Integration<br>
         • High-Performance Bidding
       </p>
     </td>
   </tr>
 </table>
-
----
 
 ### 📊 My Coding Journey & Analytics
 
