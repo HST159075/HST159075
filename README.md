@@ -6,12 +6,12 @@
 
 ```
  ╔══════════════════════════════════════════════════════════╗
- ║   Assalamu Alaikum! 👋  I build things for the web.     ║
- ║   Clean code. Fast systems. Elegant interfaces.         ║
+ ║   Assalamu Alaikum!   I build things for the web.        ║
+ ║   Clean code. Fast systems. Elegant interfaces.          ║
  ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+Next.js+apps;⚡+Crafting+high-performance+backends;🤖+Integrating+AI+into+real+products;✨+Turning+ideas+into+elegant+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+scalable+Next.js+apps;+Crafting+high-performance+backends;+Integrating+AI+into+real+products;+Turning+ideas+into+elegant+code)](https://git.io/typing-svg)
 
 <br/>
 
