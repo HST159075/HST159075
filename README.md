@@ -1,15 +1,11 @@
 <div align="center">
-```
  <h1>
-
  Hii, I'm Tasin. Nice to meet your.
  <br/>
  I build things for the web.     
  <br/>
  Clean code. Fast systems. Elegant interfaces.        
-
  </h1>
-```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Next.js+%2B+Node.js;Building+SaaS+%7C+E-Commerce+%7C+AI+Products;REST+API+%7C+PostgreSQL+%7C+Prisma+%7C+Docker;Clean+Code+%7C+Scalable+Architecture;Open+to+Remote+%26+Freelance+Opportunities)](https://git.io/typing-svg)
 
