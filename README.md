@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Assalamu%20Alaikum!%20I'm%20HST159075%20👋&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
   <br/>
 
-  ### 👨‍💻 I'm Tasin | Full-Stack Engineer
+  ###  I'm Tasin | Full-Stack Engineer
   **Architecting scalable web solutions and high-performance systems**
 
   *  Specialized in building robust **Next.js** applications and **scalable backend services**.
-  *  Passionate about **Clean Code**, **User Experience (UX)**, and **Performance Optimization**.
-  *  Bridging the gap between complex business logic and elegant user interfaces.
-  *  Constantly exploring the latest trends in **AI Integration** and **Distributed Systems**.
+     Passionate about **Clean Code**, **User Experience (UX)**, and **Performance Optimization**.
+     Bridging the gap between complex business logic and elegant user interfaces.
+     Constantly exploring the latest trends in **AI Integration** and **Distributed Systems**.
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Turning+ideas+into+code;Lover+of+Clean+Architecture;Always+learning+new+tech)](https://git.io/typing-svg)
 
@@ -21,13 +21,13 @@
 
 ---
 
-### 🙋‍♂️ About Me
+###  About Me
 
-- 🔭 I'm currently working on **Full Stack Web Applications** (Next.js & MERN Stack).
-- 🌱 I'm currently mastering **Advanced System Design** and **Cloud Infrastructures**.
-- 💬 Ask me about **React, Node.js, and Pixel-Perfect UI/UX**.
-- 📫 How to reach me: **hsttasin90@gmail.com**
-- ⚡ Fun fact: I believe that **good code is written for humans to understand**.
+-  I'm currently working on **Full Stack Web Applications** (Next.js & MERN Stack).
+-  I'm currently mastering **Advanced System Design** and **Cloud Infrastructures**.
+-  Ask me about **React, Node.js, and Pixel-Perfect UI/UX**.
+-  How to reach me: **hsttasin90@gmail.com**
+-  Fun fact: I believe that **good code is written for humans to understand**.
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -76,6 +76,7 @@
 ---
 
 ### 🤝 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/md-tasinul-alam-28158735a" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
@@ -84,13 +85,7 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
   </a>
 </p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HST159075&label=Profile%20Views&color=00d2ff&style=flat" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=120&section=footer" width="100%" />
 </div>
