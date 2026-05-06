@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Welcome to My Digital Universe!
+#  Welcome to My Digital Universe!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0JmImVwaT12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 Tech Universe (3D Style Stack)
+###  Tech Universe (3D Style Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,postgres,prisma,docker,git,vercel,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,postgres,prisma,docker,git,vercel&perline=6" />
   </a>
 </p>
 
 ---
 
-### 📂 Top Creations (Click Cards for Live Demo)
+###  Top Creations (Click Cards for Live Demo)
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=tube-client&theme=tokyonight" />
       </a>
       <p align="left">
-        • <b>Status:</b> <a href="https://tube-client.vercel.app">Live Demo 🚀</a><br>
+        • <b>Status:</b> <a href="https://tube-client.vercel.app">Live  </a><br>
         • Scalable Movie Streaming<br>
         • Advanced Video Player logic<br>
         • Watchlist Management
@@ -46,7 +46,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=MediStore&theme=tokyonight" />
       </a>
       <p align="left">
-        • <b>Status:</b> <a href="https://medistore-dusky.vercel.app">Live Demo 🚀</a><br>
+        • <b>Status:</b> <a href="https://medistore-dusky.vercel.app">Live</a><br>
         • Online Pharmacy Platform<br>
         • Role-Based Access Control<br>
         • Order Workflow Logic
@@ -57,7 +57,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=HST159075&repo=Bid-Press-Client&theme=tokyonight" />
       </a>
       <p align="left">
-        • <b>Status:</b> <a href="https://bid-press.vercel.app">Live Demo 🚀</a><br>
+        • <b>Status:</b> <a href="https://bid-press.vercel.app">Live </a><br>
         • Real-Time Auction Engine<br>
         • Socket.io Integration<br>
         • High-Performance Bidding
@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 My Coding Journey & Analytics
+###  My Coding Journey & Analytics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HST159075&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -79,7 +79,7 @@
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/tasin-alam-28158735a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alamtasin18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
