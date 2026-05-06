@@ -6,9 +6,9 @@
   **Architecting scalable web solutions and high-performance systems**
 
   *  Specialized in building robust **Next.js** applications and **scalable backend services**.
-     Passionate about **Clean Code**, **User Experience (UX)**, and **Performance Optimization**.
-     Bridging the gap between complex business logic and elegant user interfaces.
-     Constantly exploring the latest trends in **AI Integration** and **Distributed Systems**.
+  * Passionate about **Clean Code**, **User Experience (UX)**, and **Performance Optimization**.
+  *  Bridging the gap between complex business logic and elegant user interfaces.
+  *  Constantly exploring the latest trends in **AI Integration** and **Distributed Systems**.
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Turning+ideas+into+code;Lover+of+Clean+Architecture;Always+learning+new+tech)](https://git.io/typing-svg)
 
