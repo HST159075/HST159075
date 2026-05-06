@@ -1,23 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Assalamu%20Alaikum!%20I'm%20HST159075%20👋&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
-  <br/>
-
-  ###  I'm Tasin | Full-Stack Engineer
-  **Architecting scalable web solutions and high-performance systems**
-
-  *  Specialized in building robust **Next.js** applications and **scalable backend services**.
-  * Passionate about **Clean Code**, **User Experience (UX)**, and **Performance Optimization**.
-  *  Bridging the gap between complex business logic and elegant user interfaces.
-  *  Constantly exploring the latest trends in **AI Integration** and **Distributed Systems**.
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Turning+ideas+into+code;Lover+of+Clean+Architecture;Always+learning+new+tech)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://github.com/HST159075">
-      <img src="https://img.shields.io/github/followers/HST159075?label=Follow&style=social" />
-    </a>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/render?type=venom&color=0:0a0a0a,50:00d2ff,100:0a0a0a&height=300&section=header&text=Tasin&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20AI%20Integration&descAlignY=75&descSize=18" width="100%" />
+<br/>
+ ╔══════════════════════════════════════════════════════════╗
+ ║   Assalamu Alaikum! 👋  I build things for the web.     ║
+ ║   Clean code. Fast systems. Elegant interfaces.         ║
+ ╚══════════════════════════════════════════════════════════╝
 
 ---
 
