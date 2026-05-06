@@ -1,10 +1,13 @@
 <div align="center">
 ```
  <h1>
- ╔══════════════════════════════════════════════════════════╗
- ║   hey, Nice to meet your. I build things for the web.    ║
- ║     Clean code. Fast systems. Elegant interfaces.        ║
- ╚══════════════════════════════════════════════════════════╝
+
+ Hii, I'm Tasin. Nice to meet your.
+ <br/>
+ I build things for the web.     
+ <br/>
+ Clean code. Fast systems. Elegant interfaces.        
+
  </h1>
 ```
 
