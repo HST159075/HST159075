@@ -1,20 +1,44 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/render?type=venom&color=0:0a0a0a,50:00d2ff,100:0a0a0a&height=300&section=header&text=Tasin&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20AI%20Integration&descAlignY=75&descSize=18" width="100%" />
+
 <br/>
+
+```
  ╔══════════════════════════════════════════════════════════╗
  ║   Assalamu Alaikum! 👋  I build things for the web.     ║
  ║   Clean code. Fast systems. Elegant interfaces.         ║
  ╚══════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+Next.js+apps;⚡+Crafting+high-performance+backends;🤖+Integrating+AI+into+real+products;✨+Turning+ideas+into+elegant+code)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-Expert-00d2ff?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Expert-00d2ff?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Expert-00d2ff?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-Enthusiast-00d2ff?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HST159075">
+    <img src="https://img.shields.io/github/followers/HST159075?label=Follow&style=social" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ###  About Me
 
--  I'm currently working on **Full Stack Web Applications** (Next.js & MERN Stack).
--  I'm currently mastering **Advanced System Design** and **Cloud Infrastructures**.
--  Ask me about **React, Node.js, and Pixel-Perfect UI/UX**.
--  How to reach me: **hsttasin90@gmail.com**
--  Fun fact: I believe that **good code is written for humans to understand**.
+- 🔭 I'm currently working on **Full Stack Web Applications** (Next.js & MERN Stack).
+- 🌱 I'm currently mastering **Advanced System Design** and **Cloud Infrastructures**.
+- 💬 Ask me about **React, Node.js, and Pixel-Perfect UI/UX**.
+- 📫 How to reach me: **hsttasin90@gmail.com**
+- ⚡ Fun fact: I believe that **good code is written for humans to understand**.
 
 ---
 
@@ -26,16 +50,8 @@
 
 ---
 
-###  Tech Stack & Tools
+###  Featured Projects
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,redis,prisma,docker,vercel,git,github,vscode,postman" />
-  </a>
-</p>
-
----
-Featured Projects
 <div align="center">
   <table border="0">
     <tr>
@@ -70,9 +86,20 @@ Featured Projects
     </tr>
   </table>
 </div>
+
 ---
 
-### GitHub Analytics
+###  Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,redis,prisma,docker,vercel,git,github,vscode,postman" />
+  </a>
+</p>
+
+---
+
+###  GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -90,7 +117,7 @@ Featured Projects
 
 ---
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HST159075&theme=tokyo-night&hide_border=true" width="100%" />
