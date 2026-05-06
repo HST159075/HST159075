@@ -48,6 +48,42 @@
 </p>
 
 ---
+Featured Projects
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔨 BidBd</h3>
+        <p align="center">
+          <a href="https://bid-press.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🌐 Live Demo-00d2ff?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">
+          A full-featured <strong>Auction Platform</strong> with AI chatbot integration, real-time bidding, and secure authentication.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,postgresql,prisma,tailwind,vercel" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎬 Chine-Tube</h3>
+        <p align="center">
+          <a href="https://tube-client.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🌐 Live Demo-00d2ff?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">
+          A modern <strong>Movie Platform</strong> with rating system, streaming support, and seamless user experience.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,postgresql,prisma,vercel" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+---
 
 ### GitHub Analytics
 
