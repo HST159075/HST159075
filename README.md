@@ -1,14 +1,11 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=venom&color=0:0a0a0a,50:00d2ff,100:0a0a0a&height=300&section=header&text=Tasin&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20AI%20Integration&descAlignY=75&descSize=18" width="100%" />
-
-<br/>
-
 ```
+ <h1>
  ╔══════════════════════════════════════════════════════════╗
  ║   hey, Nice to meet your. I build things for the web.    ║
  ║     Clean code. Fast systems. Elegant interfaces.        ║
  ╚══════════════════════════════════════════════════════════╝
+ </h1>
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Next.js+%2B+Node.js;Building+SaaS+%7C+E-Commerce+%7C+AI+Products;REST+API+%7C+PostgreSQL+%7C+Prisma+%7C+Docker;Clean+Code+%7C+Scalable+Architecture;Open+to+Remote+%26+Freelance+Opportunities)](https://git.io/typing-svg)
