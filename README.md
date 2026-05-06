@@ -6,12 +6,12 @@
 
 ```
  ╔══════════════════════════════════════════════════════════╗
- ║   Assalamu Alaikum!   I build things for the web.        ║
- ║   Clean code. Fast systems. Elegant interfaces.          ║
+ ║   hey, Nice to meet your. I build things for the web.    ║
+ ║     Clean code. Fast systems. Elegant interfaces.        ║
  ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+scalable+Next.js+apps;+Crafting+high-performance+backends;+Integrating+AI+into+real+products;+Turning+ideas+into+elegant+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Next.js+%2B+Node.js;Building+SaaS+%7C+E-Commerce+%7C+AI+Products;REST+API+%7C+PostgreSQL+%7C+Prisma+%7C+Docker;Clean+Code+%7C+Scalable+Architecture;Open+to+Remote+%26+Freelance+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
