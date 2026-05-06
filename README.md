@@ -30,13 +30,13 @@
 <h3>
 ###  About Me
 </h3>
-<h4>
+
 - 🔭 I'm currently working on **Full Stack Web Applications** (Next.js & MERN Stack).
 - 🌱 I'm currently mastering **Advanced System Design** and **Cloud Infrastructures**.
 - 💬 Ask me about **React, Node.js, and Pixel-Perfect UI/UX**.
 - 📫 How to reach me: **hsttasin90@gmail.com**
 - ⚡ Fun fact: I believe that **good code is written for humans to understand**.
-</h4>
+
 ---
 
 ### 🏆 GitHub Trophies
