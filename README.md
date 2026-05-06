@@ -27,9 +27,9 @@
 </div>
 
 ---
-<h3>
-###  About Me
-</h3>
+<h2>
+  About Me
+</h2>
 
 - 🔭 I'm currently working on **Full Stack Web Applications** (Next.js & MERN Stack).
 - 🌱 I'm currently mastering **Advanced System Design** and **Cloud Infrastructures**.
@@ -39,7 +39,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2> 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HST159075&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
@@ -47,13 +47,13 @@
 
 ---
 
-###  Featured Projects
+<h2> Featured Projects <h2/>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🔨 BidBd</h3>
+        <h3 align="center"> BidBd</h3>
         <p align="center">
           <a href="https://bid-press.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/🌐 Live Demo-00d2ff?style=for-the-badge" />
@@ -67,7 +67,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎬 Chine-Tube</h3>
+        <h3 align="center"> Chine-Tube</h3>
         <p align="center">
           <a href="https://tube-client.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/🌐 Live Demo-00d2ff?style=for-the-badge" />
@@ -86,7 +86,7 @@
 
 ---
 
-###  Tech Stack & Tools
+<h2>Tech Stack & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -96,7 +96,7 @@
 
 ---
 
-###  GitHub Analytics
+<h2> GitHub Analytics </h2>
 
 <div align="center">
   <table border="0">
@@ -114,7 +114,7 @@
 
 ---
 
-###  Contribution Activity
+<h2> Contribution Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HST159075&theme=tokyo-night&hide_border=true" width="100%" />
@@ -122,7 +122,7 @@
 
 ---
 
-### 🤝 Connect with Me
+<h2> Connect with Me </h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/md-tasinul-alam-28158735a" target="blank">
